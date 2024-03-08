@@ -13,8 +13,7 @@
 	},
 	{
 		"prompt": "When will use has?",
-		"answer": "When will use have?",
-		"answer": "I/You/We/They."
+		"answer": "He/She/It."
 	},
 	{
 		"prompt": "What is the present prefect tense of do?",

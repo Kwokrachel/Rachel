@@ -4,14 +4,15 @@
 		"answer": "have/has + p.p",
 		"link": "https://www.youtube.com/watch?v=i9GlEYf8_5I"
 	},
+	{
+		"prompt":  "<img src='https://www.onlinemathlearning.com/image-files/present-perfect-tense.png'>" 
+	},
     {
 		"prompt": "When will use have?",
-		"answer": "I/You/We/They. <img src='https://www.onlinemathlearning.com/image-files/present-perfect-tense.png'>," 
-	},
+		"answer": "I/You/We/They.",
 	{
 		"prompt": "When will use has?",
 		"answer": "He/She/It",
-		"link": "https://google.com"
 	},
 	{
 		"prompt": "What is the present prefect tense of do?",
